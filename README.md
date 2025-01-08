@@ -60,7 +60,7 @@ technologies to meet future requirements.</br>
 
  ## Education
  - 📍 **Roorkee College of Engineering**-----------------------**< 2021-2024 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ 📖**Bachelor's of computer science< Information Technology >**
  
  -
  

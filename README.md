@@ -1,6 +1,4 @@
-![download](https://github.com/akankushjnvku/akankushjnvku/assets/120416196/982c16fc-1fad-453d-ad7f-3bb799915264)
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
@@ -64,11 +62,7 @@ technologies to meet future requirements.</br>
  - 📍 **Roorkee College of Engineering**-----------------------**< 2021-2024 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
-   📖**Secondary Schooling**
+ -
  
    
    
